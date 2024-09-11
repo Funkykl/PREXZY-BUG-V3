@@ -4,9 +4,9 @@ const chalk = require('chalk')
 //contact details
 global.ownernomer = "24162266840"
 global.ownername = "OKLMBOY"
-global.ytname = "YT: Prexzyvilla"
+global.ytname = "YT: danieloklm"
 global.socialm = "GitHub: OKLMBOY"
-global.location = "Africa,Gabon,moanda"
+global.location = "115,Gabon,moanda"
 
 global.ownernumber = '24162266840'  //creator number
 global.ownername = 'OKLMBOY👑' //owner name
@@ -14,7 +14,7 @@ global.botname = 'OKLMBOY 𝕻3' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By OKLMBOY'
-global.author = '👑Prexzy\n\nContact: +2347063956321'
+global.author = 'OKLMBOY\n\nContact: +24162266840'
 
 //console view/theme
 global.themeemoji = '🪀'
